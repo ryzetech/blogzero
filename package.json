@@ -1,8 +1,9 @@
 {
   "dependencies": {
+    "@prisma/adapter-d1": "^5.18.0",
+    "@prisma/client": "^5.18.0",
     "@sunknudsen/totp": "^1.1.1",
     "express": "^4.19.2",
-    "helmet": "^7.1.0",
-    "prisma": "^5.18.0"
+    "helmet": "^7.1.0"
   }
 }
